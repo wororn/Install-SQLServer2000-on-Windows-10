@@ -1,0 +1,16 @@
+1. Buka drive C:\ (Drive System).
+
+2. Copy folder Microsoft SQL Server yg telah disediakan ke program files pada komputer (drive C:)
+
+3. klik kanan pada folder Microsoft SQL Server , klik properties, klik security, klik edit, klik add,
+    ketik Everyone pada kolom 'enter the object name to select', klik tombol  'check name' dan  klik ok
+   
+4. Copy files yg ada di folder System32 ke folder system32 yg ada di komputer(drive C:).
+
+5. copy isi folder x86  yaitu a.) sqlredis.exe  ke folder other  b.) setupsql.exe ke folder setup,
+   kedua folder itu  terletak di folder  x86 pada folder program SQL2000 yg akan diinstall.
+
+6. buka folder program yaitu x86>setup> doubleclick setupsql.exe
+
+
+GooD LUCK
